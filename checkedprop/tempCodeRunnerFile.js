@@ -1,0 +1,1 @@
+mySubmit.onclick = function(){
